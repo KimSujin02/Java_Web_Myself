@@ -1,4 +1,4 @@
-package 웹다운로드;
+package 웹_이미지_다운로드;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;
