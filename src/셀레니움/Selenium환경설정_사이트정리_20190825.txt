@@ -1,0 +1,19 @@
+셀레니움(selenium)참고 위키독스
+https://wikidocs.net/35954
+
+셀레니움 공식 사이트(다운로드)
+https://www.seleniumhq.org/download/
+
+셀레니움 자바(웹페이지 관련 가이드/셀레니움에 대한 설명)
+https://gdtbgl93.tistory.com/154
+
+
+ * Selenium 라이브러리로 크롬브라우저 조종 예제
+ * Selenium : 웹자동화 기능이 구현되있는 라이브러리
+ * 라이브러리 : 어떤 기능을 구현하기 위해 처리해야하는 작업들이 이미 구현되어 있는 클래스 모음
+
+ * Selenium 환경설정
+ * 1. 셀레니움 구글에 검색하고 공식 사이트에 들어가, JAVA언어 라이브러리 다운로드 및 압축풀기
+ * 2. 프로젝트 우 클릭 - properties - java build path - Libraries - add external jars (jar파일 한개와 라이브러리 속에 있는 파일 모두)
+ * 3. 구글에 크롬버전을 확인하고, 크롬 브라우저 공식 사이트에 가서 크롬 드라이버 다운로드
+ *     ->프로젝트 폴더에 .exe 실행파일 압축풀기
