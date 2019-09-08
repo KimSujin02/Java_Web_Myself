@@ -44,6 +44,11 @@ class TVRemote implements RemoteControl, Battery{
 	public void changeBattery(int battery) {
 		System.out.println("배터리 교체 : "+ battery);
 	}
+	@Override
+	public void mute() {
+		System.out.println("음소거");
+		
+	}
 }
 public class Main20 {
 
